@@ -4,15 +4,16 @@ If you want to revise python or you are stuck somewhere just refer to a Python c
 
 Welcome to the Python Mini Projects repository! This collection includes a variety of small projects designed to help you improve your Python skills. Each project comes with complete code and instructions to help you understand and implement the concepts.
 
+
 ## Projects List
 
-1. **[Band Name Generator](https://github.com/Aaryacode19/Python-Mini-Projects/tree/main/Band%20Name%20Generator)**
-2. **[Calculator](https://github.com/Aaryacode19/Python-Mini-Projects/tree/main/Calculator)**
-3. **[Auction Program](https://github.com/Aaryacode19/Python-Mini-Projects/tree/main/Auction%20Program)**
-4. **[Tip Calculator](https://github.com/Aaryacode19/Python-Mini-Projects/tree/main/Tip%20Calculator)**
-5. **[Pizza Machine Code](https://github.com/Aaryacode19/Python-Mini-Projects/tree/main/Pizza%20Machine%20Code)**
-6. **[Rock Paper Scissors Game](https://github.com/Aaryacode19/Python-Mini-Projects/tree/main/Rock%20Paper%20Scissors%20Game)**
-7. **[Password Generator](https://github.com/Aaryacode19/Python-Mini-Projects/tree/main/Password%20Generator)**
+1. **[Band Name Generator](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/band_name_generator.py)**
+2. **[Calculator](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/calculator.py)**
+3. **[Auction Program](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/auction.py)**
+4. **[Tip Calculator](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/tip_calculator.py)**
+5. **[Pizza Machine Code](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/pizza_machine_code.py)**
+6. **[Rock Paper Scissors Game](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/rock_paper_scissors.py)**
+7. **[Password Generator](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/password_generator.py)**
 
 
 ## Contributing
