@@ -27,8 +27,10 @@ Welcome to the Python Mini Projects repository! This collection includes a varie
 18. **[Classic Pong Game (Project -18) ](https://github.com/Aaryacode19/Pong-Game)**
 19. **[Turtle Crossing Game (Project -19) ](https://github.com/Aaryacode19/Turtle-crossing-game)**
 20. **[Mail Merger (Project -20) ](https://github.com/Aaryacode19/Python-100-Projects/tree/873d9ad0ae9a55aef078753a7cc61157115c7a0b/Mail%20Merge%20Project)**
-21. **[Guess The States (Project -21) ]()**
-22. **[Pizza Machine Code](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/pizza_machine_code.py)**
+21. **[Guess The States (Project -21) ](https://github.com/Aaryacode19/Python-100-Projects/tree/e2189d042a81b52eea78f16347521b525e66f2a6/Guess%20The%20State%20Game)**
+22. **[NATO Alphabet (Project -22) ]()**
+23. **[Miles To KM Converter]()**
+24. **[Pizza Machine Code](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/pizza_machine_code.py)**
 
 
 
