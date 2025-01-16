@@ -33,7 +33,9 @@ Welcome to the Python Mini Projects repository! This collection includes a varie
 24. **[Pomodoro Timer (Project -24) ](https://github.com/Aaryacode19/Pomodoro-Timer)**
 25. **[Password Manager (Project -25) ](https://github.com/Aaryacode19/Password-Manager)**
 26. **[Learn French Using Flash Card (Project -26) ](https://github.com/Aaryacode19/Flash-cards)**
-27. **[Pizza Machine Code](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/pizza_machine_code.py)**
+27. **[Automate Birthday Emails Using Python (Project -27) ](https://github.com/Aaryacode19/Python-100-Projects/tree/304e9dccd98fa0b19331dae75f52e85831e0081b/Birthday%20Email)**
+28. **[ISS Overhead Notifier Project (Project -28) ](https://github.com/Aaryacode19/Python-100-Projects/blob/main/ISS_Tracker.py)**
+29. **[Pizza Machine Code](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/pizza_machine_code.py)**
 
 
 
