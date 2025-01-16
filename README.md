@@ -9,7 +9,7 @@ Welcome to the Python Mini Projects repository! This collection includes a varie
 
 1. **[Band Name Generator (Project -1) ](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/band_name_generator.py)**
 2. **[Calculator (Project -2) ](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/calculator.py)**
-3. **[Tressure Island (Project -3) ]**
+3. **[Tressure Island (Project -3) ]()**
 4. **[Rock Paper Scissiors (Project -4) ](https://www.codedex.io/community/project-showcase/G21zBmTo8whyit89viUV)**
 5. **[Password Generator (Project -5) ](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/password_generator.py)**
 6. **[Escaping The Maze (Project -6) ](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)**
@@ -17,7 +17,7 @@ Welcome to the Python Mini Projects repository! This collection includes a varie
 8. **[Caesar Cipher (Project -8) ](https://github.com/Aaryacode19/caesar-cipher-message)**
 9. **[Auction Program (Project -9) ](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/auction.py)**
 10. **[Tip Calculator (Project -10) ](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/tip_calculator.py)**
-11. **[Black Jack (Project -11) ]**
+11. **[Black Jack (Project -11) ]()**
 12. **[Number Guessing Game (Project -12) ](https://github.com/Aaryacode19/Guess-the-number-game)**
 13. **[Higher Lower Game (Project -13) ]()**
 14. **[Coffee Machine (Project -14) ](https://github.com/Aaryacode19/coffee-machine-project)**
@@ -26,8 +26,9 @@ Welcome to the Python Mini Projects repository! This collection includes a varie
 17. **[Classic Snake Game (Project -17) ](https://github.com/Aaryacode19/Classic-Snake-Game)**
 18. **[Classic Pong Game (Project -18) ](https://github.com/Aaryacode19/Pong-Game)**
 19. **[Turtle Crossing Game (Project -19) ](https://github.com/Aaryacode19/Turtle-crossing-game)**
-20. **[Mail Merger (Project -20) ]()**
-21. **[Pizza Machine Code](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/pizza_machine_code.py)**
+20. **[Mail Merger (Project -20) ](https://github.com/Aaryacode19/Python-100-Projects/tree/873d9ad0ae9a55aef078753a7cc61157115c7a0b/Mail%20Merge%20Project)**
+21. **[Guess The States (Project -21) ]()**
+22. **[Pizza Machine Code](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/pizza_machine_code.py)**
 
 
 
