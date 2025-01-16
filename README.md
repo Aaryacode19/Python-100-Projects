@@ -7,13 +7,17 @@ Welcome to the Python Mini Projects repository! This collection includes a varie
 
 ## Projects List
 
-1. **[Band Name Generator](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/band_name_generator.py)**
-2. **[Calculator](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/calculator.py)**
-3. **[Auction Program](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/auction.py)**
-4. **[Tip Calculator](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/tip_calculator.py)**
-5. **[Pizza Machine Code](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/pizza_machine_code.py)**
-6. **[Rock Paper Scissors Game](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/rock_paper_scissors.py)**
-7. **[Password Generator](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/password_generator.py)**
+1. **[Band Name Generator (Project -1) ](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/band_name_generator.py)**
+2. **[Tip Calculator (Project -2) ](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/calculator.py)**
+3. **[Tressure Island (Project -3) ]**
+4. **[Rock Paper Scissiors (Project -4) ]
+   (https://www.codedex.io/community/project-showcase/G21zBmTo8whyit89viUV)**
+6. 
+7. **[Auction Program](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/auction.py)**
+8. **[Tip Calculator](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/tip_calculator.py)**
+9. **[Pizza Machine Code](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/pizza_machine_code.py)**
+10. **[Rock Paper Scissors Game](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/rock_paper_scissors.py)**
+11. **[Password Generator](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/password_generator.py)**
 
 
 ## Contributing
