@@ -1,8 +1,8 @@
-# Python Mini Projects
+# Python Projects
 
 If you want to revise python or you are stuck somewhere just refer to a Python cheatsheet, you can find it [here](https://github.com/Aaryacode19/Python-Cheatsheet).
 
-Welcome to the Python Mini Projects repository! This collection includes a variety of small projects designed to help you improve your Python skills. Each project comes with complete code and instructions to help you understand and implement the concepts.
+Welcome to the Python Projects repository! This collection includes a variety of projects designed to help you improve your Python skills. Each project comes with complete code and instructions to help you understand and implement the concepts.
 
 
 ## Projects List
