@@ -31,8 +31,9 @@ Welcome to the Python Mini Projects repository! This collection includes a varie
 22. **[NATO Alphabet (Project -22) ]()**
 23. **[Miles To KM Converter (Project -23) ](miles_to_km_converter.py)**
 24. **[Pomodoro Timer (Project -24) ](https://github.com/Aaryacode19/Pomodoro-Timer)**
-25. **[Password Manager (Project -25) ]()**
-26. **[Pizza Machine Code](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/pizza_machine_code.py)**
+25. **[Password Manager (Project -25) ](https://github.com/Aaryacode19/Password-Manager)**
+26. **[Learn French Using Flash Card (Project -26) ](https://github.com/Aaryacode19/Flash-cards)**
+27. **[Pizza Machine Code](https://github.com/Aaryacode19/Python-Mini-Projects/blob/main/pizza_machine_code.py)**
 
 
 
