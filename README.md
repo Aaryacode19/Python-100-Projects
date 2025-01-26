@@ -37,7 +37,12 @@ Welcome to the Python Projects repository! This collection includes a variety of
 28. **[ISS Overhead Notifier Project (Project -28) ](https://github.com/Aaryacode19/Python-100-Projects/blob/main/ISS_Tracker.py)**
 29. **[GUI Quiz Game/App (Project -29) ](https://github.com/Aaryacode19/Python-100-Projects/tree/main/GUI%20Quiz)**
 30. **[Weather Alert On Whatsapp Using Twilio API (Project -30) ](https://github.com/Aaryacode19/Python-100-Projects/blob/main/whatsapp_weather.py)**
-31. **[Pizza Machine Code](https://github.com/Aaryacode19/Python-100-Projects/blob/main/pizza_machine_code.py)**
+31. **[Stock News Alert Project (Project -31) ](https://github.com/Aaryacode19/Python-100-Projects/blob/main/stock_tracker.py)**
+32. **[Habbit Tracker Using "Pixeal" (Project -32) ](https://pixe.la/)**
+33. **[Workout Tracking and savinng in Gsheets using Sheety API (Project -33) ](willupdatesoon.in)**
+34.  **[Flight Fair Tracking and savinng in Gsheets using Sheety API (Project -34) ](willupdatesoon.in)**
+35. **[Pizza Machine Code (Project -35) ](https://github.com/Aaryacode19/Python-100-Projects/blob/main/pizza_machine_code.py)**
+36. **[Flight Club / Search Flights (Project -36) ](https://github.com/Aaryacode19/Python-100-Projects/tree/main/flight%2BSearch)**
 
 
 
